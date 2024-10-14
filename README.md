@@ -1,0 +1,2 @@
+# PHP-MySQL-Project-Listing
+ This repository contains a PHP template for generating a dynamic project listing webpage using MySQL database integration. It includes functions for connecting to the database, fetching project data, and displaying it on the webpage. The template features responsive design and supports both light and dark modes for user customization. Additionally, it provides functionality for truncating long project descriptions while preserving readability, ensuring an optimal user experience.   FPA License.
